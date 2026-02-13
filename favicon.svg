@@ -1,0 +1,26 @@
+<svg class="tiger-icon" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <path d="M45,85 C45,45 155,45 155,85 C155,135 125,165 100,165 C75,165 45,135 45,85" fill="none"
+        stroke="#f39c12" stroke-width="6" stroke-linecap="round"></path>
+    <path d="M90,55 L110,55 M95,63 L105,63 M90,71 L110,71 M100,55 L100,71" fill="none"
+        stroke="#f39c12"
+        stroke-width="4" stroke-linecap="round"></path>
+    <path d="M68,100 Q78,90 88,100" fill="none" stroke="#2c3e50" stroke-width="4"
+        stroke-linecap="round"></path>
+    <path d="M112,100 Q122,90 132,100" fill="none" stroke="#2c3e50" stroke-width="4"
+        stroke-linecap="round">
+    </path>
+    <path d="M97,118 Q100,122 103,118" fill="none" stroke="#2c3e50" stroke-width="4"
+        stroke-linecap="round">
+    </path>
+    <path d="M85,132 Q100,145 115,132" fill="none" stroke="#2c3e50" stroke-width="4"
+        stroke-linecap="round">
+    </path>
+    <path d="M55,58 Q40,35 62,35" fill="none" stroke="#f39c12" stroke-width="6"
+        stroke-linecap="round"></path>
+    <path d="M145,58 Q160,35 138,35" fill="none" stroke="#f39c12" stroke-width="6"
+        stroke-linecap="round">
+    </path>
+    <path d="M55,120 L35,115 M55,130 L35,135 M145,120 L165,115 M145,130 L165,135" fill="none"
+        stroke="#f39c12"
+        stroke-width="3" stroke-linecap="round"></path>
+</svg>
